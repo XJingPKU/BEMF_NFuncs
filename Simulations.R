@@ -1,6 +1,6 @@
 ###########################################################
 # simutation
-# The following code are the modified by Xin Jing from Gamfeldt and Roger 2017
+# The following code are modified by Xin Jing from Gamfeldt and Roger 2017
 # Full cite: Gamfeldt, Lars, and Fabian Roger. "Revisiting the biodiversity-ecosystem multifunctionality relationship." Nature ecology & evolution 1.7 (2017): 168.
 
 rm(list = ls())
